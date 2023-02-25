@@ -29,11 +29,11 @@ html::-webkit-scrollbar{
 }
 
 html::-webkit-scrollbar-track{
-    background: transparent;
+    background: #000000;
 }
 
 html::-webkit-scrollbar-thumb{
-    background:#000000;
+    background:#fff;
     border-radius: 5rem;
 }
 
